@@ -1,0 +1,22 @@
+{
+  "name": "com.stepup",
+  "version": "1.0.0",
+  "description": "Test NodeJS app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohammedNadeem210/Stepup-Starter.git"
+  },
+  "author": "Mohammed Nadeem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohammedNadeem210/Stepup-Starter/issues"
+  },
+  "homepage": "https://github.com/MohammedNadeem210/Stepup-Starter#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
